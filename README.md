@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical)
+
+![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&show_icons=true&theme=radical)
+
+![GitHub Stats](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
+![GitHub Stats](https://img.shields.io/badge/-css-e34f26?logo=css35&logoColor=fff)
+![GitHub Stats](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=fff)
