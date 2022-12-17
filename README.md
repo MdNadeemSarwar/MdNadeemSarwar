@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-Expressjs-4B5562?logo=Express.js&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-JSON-8BC0D0?logo=JSON&logoColor=fff)
-
 ![GitHub Stats](https://img.shields.io/badge/-jQuary-0769AD?logo=jQuary&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-Apache-D22128?logo=Apache&logoColor=fff)
@@ -37,6 +36,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://img.shields.io/badge/-Canva-00C4CC?logo=Canva&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-XAMPP-FB7A24?logo=XAMPP&logoColor=fff)
+![GitHub Stats](https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube&logoColor=fff)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical)
 ![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&show_icons=true&theme=radical)
