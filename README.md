@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi<img src="https://github.com/MdnadeemSarwar/MdnadeemSarwar/blob/main/Wave.gif" height="55px" width="55px">,I'm Md Nadeem Sarwar</h1>
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a></p>
@@ -40,10 +39,6 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-XAMPP-FB7A24?logo=XAMPP&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube&logoColor=fff)
-### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering. </br>
-🌱 Learning Go, DevOps, AWS, GCP, Azure</br>
-😄 Pronouns: He/him/his</br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)<br/>
