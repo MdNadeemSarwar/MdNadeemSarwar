@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1 align="center">Hi<img src="https://github.com/MdnadeemSarwar/MdnadeemSarwar/blob/main/Wave.gif" height="55px" width="55px">,I'm Md Nadeem Sarwar</h1>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a></p>
+    
 ![GitHub Stats](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-css-1572B6?logo=css35&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=fff)
@@ -37,6 +41,23 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-XAMPP-FB7A24?logo=XAMPP&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube&logoColor=fff)
+### About Me 🚀
+🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering. </br>
+🌱 Learning Go, DevOps, AWS, GCP, Azure</br>
+😄 Pronouns: He/him/his</br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical)
-![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&show_icons=true&theme=radical)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!--START_SECTION:waka-->
+
+```text
+Python   3 hrs 9 mins    █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
+![](https://visitor-badge.glitch.me/badge?page_id=MdnadeemSarwar.MdnadeemSarwar)
