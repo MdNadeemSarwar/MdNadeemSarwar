@@ -54,4 +54,4 @@ Python   3 hrs 58 mins    ██████████████████
 ```
 
 <!--END_SECTION:waka-->
-![](https://visitor-badge.glitch.me/badge?page_id=MdnadeemSarwar.MdnadeemSarwar)
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
