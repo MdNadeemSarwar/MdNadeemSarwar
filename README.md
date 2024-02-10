@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
+<p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Nadeem+Sarwar..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&left=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Nadeem+Sarwar..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
     
 # 🖥️ Technical Skills: 
 <p align="left">
@@ -134,7 +134,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
@@ -148,6 +147,5 @@ Here are some ideas to get you started:
 ```text
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
-
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
